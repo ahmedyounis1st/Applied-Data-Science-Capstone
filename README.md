@@ -2,7 +2,7 @@
 Associated with Applied Data Science Capstone Course from IBM Data Science Professional Specialization.
 
 Tools used:
-+ ML
++ Machine Learning
 + SQL
 + Python
 + Jupyter Notebook
